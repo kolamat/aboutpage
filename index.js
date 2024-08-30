@@ -1,5 +1,7 @@
 const body = document.querySelector("body");
 body.style.background = "grey";
+body.style.margin = "0px";
+body.style.padding = "0px";
 
 const p = document.createElement("p");
 p.textContent =
