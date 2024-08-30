@@ -7,7 +7,6 @@ p.textContent =
 p.style.display = "flex";
 p.style.justifyContent = "center";
 p.style.paddingRight = "30px";
-// p.style.paddingLeft = "30px";
 p.style.paddingTop = "30px";
 p.style.paddingBottom = "30px";
 p.style.fontSize = "30px";
